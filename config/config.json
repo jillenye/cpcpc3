@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x219e1fd6701256920dB7a4A021ace7B84d1059e4",
+  "SCAN_LINK": "https://etherscan.io/address/0x219e1fd6701256920db7a4a021ace7b84d1059e4",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Camera Person Community Photography Collection First Collection",
+  "SYMBOL": "CPCPC1",
+  "MAX_SUPPLY": 120,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
